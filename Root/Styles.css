@@ -9,6 +9,7 @@
 }
 
 
+
 /*Barra de navegacion*/
 .navbar{
     padding: 2rem;
@@ -109,7 +110,7 @@ h1{
 .hero-img-perfil{
     height: 200px;
     width: auto;
-   
+
     margin: 20px;
 }
 
